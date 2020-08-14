@@ -107,7 +107,7 @@ h1{
 .flag .white .ashok-chakra li{
     list-style: none;
     width:118px;
-    border:2px blue;
+    border:1px blue;
     position:relative;
 }
 li:nth-child(1){

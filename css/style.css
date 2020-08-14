@@ -106,12 +106,12 @@ h1{
 }
 .flag .white .ashok-chakra li{
     list-style: none;
-    width:80px;
+    width:118px;
     border:1px solid navy;
     position:relative;
 }
 li:nth-child(1){
-    top:39px;
+    top:59px;
 }
 li:nth-child(2){
     top:37px;
